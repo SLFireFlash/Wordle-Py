@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @SLFireFlash
+this is simple word guessing game made with python
 Find me @discord SL-FireFlash#2962
 
 <!---
